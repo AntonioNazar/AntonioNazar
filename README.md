@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/AntonioNazar">
-  <img height="180em" img width= "50%" src="https://github-readme-stats.vercel.app/api?username=AntonioNazar&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNazar&layout=compact&langs_count=7&theme=aura_dark&hide=HLSL,ShaderLab"/>
+  <img height="180em" img width= "49%" src="https://github-readme-stats.vercel.app/api?username=AntonioNazar&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="49%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNazar&layout=compact&langs_count=7&theme=aura_dark&hide=HLSL,ShaderLab"/>
 </div>
 
 <div> 
