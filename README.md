@@ -1,6 +1,5 @@
 ### Hi. I'm Antonio Henrique Nazar.
 
-- 🌱 I’m currently learning python and html
 - 📫 How to reach me: nicodeneeko@gmail.com
 
 <div align="center">
