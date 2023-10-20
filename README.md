@@ -29,8 +29,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AntonioNazar&theme=tokyonight&border_color=10007D&show_icons=true&icon_color=30A3DC"
-    style="padding:16px>
+    <img src="https://github-readme-stats.vercel.app/api?username=AntonioNazar&theme=tokyonight&border_color=10007D&show_icons=true&icon_color=30A3DC" style="padding:16px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntonioNazar&layout=compact&langs_count=8&theme=tokyonight&hide=HLSL,ShaderLab&border_color=10007D&">
 </div>
 <hr>
