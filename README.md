@@ -11,7 +11,7 @@
         <ul>
         <li style="font-size:16px"> <b>Name</b>: Antonio Henrique Nazar </li>
         <li style="font-size:16px"> <b>Pronouns</b>: He/Him </li>
-        <li style="font-size:16px"> I love Omori, Celeste, Artic Monkeys, Nirvana and city pop 🎵🎮 </li>
+        <li style="font-size:16px"> I love Omori, Celeste, Arctic Monkeys, Nirvana and city pop 🎵🎮 </li>
         <li style="font-size:16px"> I also love rainy days, I find it quite relaxing for programming ✌ </li>
         </ul>
     </div>
