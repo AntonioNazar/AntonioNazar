@@ -5,7 +5,7 @@
 </div>
 
 </div>
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 <div>
      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IxaGl0Mmx4aXNxdWNvZHFwNDRhaWY4MjE0c2t0OXowZzNzNXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nYtrgEFgarVfPSBJC4/giphy.gif" style="width: 300px; height: 200px" align="right">
     <div>
@@ -19,7 +19,7 @@
 </div>
 <br><br><br><br>
 
-<h2 align="center"> My Stack </h2>
+<h2 align="left"> My Stack </h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -33,9 +33,7 @@
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 </div>
 
-<hr>
-
-<h3 align="center">How to reach me</h3>
+<h2 align="left">How to reach me</h2>
 <br>
 <div align="center">
     <a href="https://www.linkedin.com/in/antonio-henrique-nazar-de-souza-674988250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
