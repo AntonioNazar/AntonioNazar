@@ -1,38 +1,40 @@
 <body>
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=5430b4&size=35&center=true&vCenter=true&width=500&lines=よろしくお願いします">
-<br>
+  <img height="350em" src="./.github/assets/banner.png"/>
+</div>
+
 </div>
 <h1 align="center">About me</h1>
-
 <div>
      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IxaGl0Mmx4aXNxdWNvZHFwNDRhaWY4MjE0c2t0OXowZzNzNXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nYtrgEFgarVfPSBJC4/giphy.gif" style="width: 300px; height: 200px" align="right">
     <div>
         <ul>
         <li style="font-size:16px"> <b>Name</b>: Antonio Henrique Nazar </li>
         <li style="font-size:16px"> <b>Pronouns</b>: He/Him </li>
-        <li style="font-size:16px"> LLM and Machine Learning enthusiast 🔗</li>
-        <li style="font-size:16px"> On my free time I play guitar 🎸</li>
+        <li style="font-size:16px"> Data Scientist in formation </li>
+        <li style="font-size:16px"> I spend my free time reading and playing guitar 🎸📚 </li>
         </ul>
     </div>
 </div>
 <br><br><br><br>
-<h2 align="center"> Languages and tools: </h2>
+
+<h2 align="center"> My Stack </h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
-    <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 </div>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AntonioNazar&theme=tokyonight&border_color=10007D&show_icons=true&icon_color=30A3DC" style="padding:16px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntonioNazar&layout=compact&langs_count=8&theme=tokyonight&hide=HLSL,ShaderLab&border_color=10007D&">
-</div>
+
 <hr>
+
 <h3 align="center">How to reach me</h3>
 <br>
 <div align="center">
