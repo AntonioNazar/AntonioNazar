@@ -12,7 +12,7 @@
         <ul>
         <li style="font-size:16px"> <b>Name</b>: Antonio Henrique Nazar </li>
         <li style="font-size:16px"> <b>Pronouns</b>: He/Him </li>
-        <li style="font-size:16px"> Data Scientist in formation </li>
+        <li style="font-size:16px"> Computer Science Student (Data Science focus) </li>
         <li style="font-size:16px"> I spend my free time reading and playing guitar 🎸📚 </li>
         </ul>
     </div>
