@@ -42,5 +42,5 @@
     <a href="mailto:nicodeneeko@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 <br>
-<p align="center">Email: nicodeneeko@gmail.com</p>
+<p align="center">Email: antonionazarlhl@gmail.com</p>
 </body>
